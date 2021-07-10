@@ -1,0 +1,22 @@
+{
+  "name": "main_project",
+  "version": "1.0.0",
+  "description": "gulp_install",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balatskii/sites-layout.git"
+  },
+  "author": "Balatskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balatskii/sites-layout/issues"
+  },
+  "homepage": "https://github.com/Balatskii/sites-layout#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
